@@ -1,3 +1,0 @@
-# Example jwt.properties for review-service
-jwt.secret=<your_jwt_secret>
-jwt.expiration=86400000
