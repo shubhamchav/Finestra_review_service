@@ -1,0 +1,6 @@
+# Ignore application secrets
+src/main/resources/application.properties
+src/main/resources/jwt.properties
+
+# Ignore build output
+target/
